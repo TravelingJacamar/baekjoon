@@ -9,8 +9,14 @@ public class snailWantToGoUp {
         int V = input.nextInt();
 
         // 올림 하는 법은 생각해내지 못해서 찾아보았다. 기억해두자.
-        //그전 나의 답 (V-A)/(A-B)+1 
-        int days = (V-A+(A-B)-1)/(A-B)+1;
+        //그전 나의 답 (V-A)/(A-B)+1
+        // 수식으로 해결하는 가장 간단한 답 int days = (V-A+(A-B)-1)/(A-B)+1;
+        // 밑에 답은 내가 생각한 올림 방법
+        int days=(V-A)/(A-B)+1;
+        if((V-A)%(A-B)!=0){
+            days++;
+        }
+
 
         System.out.println(days);
 
