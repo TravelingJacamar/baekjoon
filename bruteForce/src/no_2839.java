@@ -5,16 +5,17 @@ public class no_2839 {
 
         int N = input.nextInt();
 
-        int bag5 = N / 5;
-        N -= bag5 * 5;
-        int bag3 = N / 3;
-        N -= bag3 * 3;
+        int result = -1;
 
-        if (N == 0){
-            System.out.println(bag5+bag3);
-        }else{
-            System.out.println("-1");
+        for(int i =0;i<=N/5;i++){
+            int tmp = N;
+            tmp -= 5*i;
+            if(tmp % 3==0){
+                 result = i + tmp/3;
+            }
         }
+
+        System.out.println(result);
 
 
     }
