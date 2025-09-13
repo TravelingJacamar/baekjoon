@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DivisorMultipleAndPrimeNumber/DivisorMultipleAndPrimeNumber.iml" filepath="$PROJECT_DIR$/DivisorMultipleAndPrimeNumber/DivisorMultipleAndPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baekjoon.iml" filepath="$PROJECT_DIR$/baekjoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bruteForce/bruteForce.iml" filepath="$PROJECT_DIR$/bruteForce/bruteForce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dimension2Arr/dimension2Arr.iml" filepath="$PROJECT_DIR$/dimension2Arr/dimension2Arr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divisorMultipleAndPrimeNumber2/divisorMultipleAndPrimeNumber2.iml" filepath="$PROJECT_DIR$/divisorMultipleAndPrimeNumber2/divisorMultipleAndPrimeNumber2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geometricFigure/geometricFigure.iml" filepath="$PROJECT_DIR$/geometricFigure/geometricFigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mathmetical_thinking/mathmetical_thinking.iml" filepath="$PROJECT_DIR$/mathmetical_thinking/mathmetical_thinking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setAndMap/setAndMap.iml" filepath="$PROJECT_DIR$/setAndMap/setAndMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timeComplexity/timeComplexity.iml" filepath="$PROJECT_DIR$/timeComplexity/timeComplexity.iml" />
+    </modules>
+  </component>
+</project>
